@@ -18,9 +18,9 @@ May 2017
 
 ##### Healthcare Engineering Systems Center, University of Illinois at Urbana Champaign, Aug 2019 – Present
 
-• Leading multi-disciplinary teams to develop virtual reality projects for medical simulation and training. \\
-• End-to-end project management including ideation, proposal writing, and production to deliver software. \\
-• Managing $100,000+ in Jump Trading ARCHES funding for development.
+- Leading multi-disciplinary teams to develop virtual reality projects for medical simulation and training. \\
+- End-to-end project management including ideation, proposal writing, and production to deliver software. \\
+- Managing $100,000+ in Jump Trading ARCHES funding for development.
 
 ---
 
