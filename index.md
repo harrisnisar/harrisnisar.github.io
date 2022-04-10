@@ -4,6 +4,20 @@
 
 ### Data Science and Machine Learning Projects
 
+#### Implementing Machine Learning Algorithms from Scratch
+
+---
+
+#### Caption Genrator using Deep Learning
+
+---
+
+#### Urban Sound Tagging using Deep Learning
+
+---
+
+#### Data Collection Portal for Pose Estimation
+
 ---
 
 ### Virtual Reality (VR) Projects
@@ -93,9 +107,5 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 <!-- ##### Machine Explorer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
----
-
-### Fullstack Development Projects
 
 ---
