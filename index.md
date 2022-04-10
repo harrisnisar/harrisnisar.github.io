@@ -71,7 +71,9 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 ##### Tool Explorer and Surgical Incision:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zMFY5ra44Ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##### Anatomy Viewer:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rElz6Wt7tzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
