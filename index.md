@@ -26,8 +26,6 @@ May 2017
 
 ## Portfolio
 
----
-
 ### Data Science and Machine Learning Projects
 
 #### Implementing Machine Learning Algorithms from Scratch
