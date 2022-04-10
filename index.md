@@ -1,6 +1,6 @@
 ## Education
 
-#### MS Candidate in Industrial Engineering with the Advanced Analytics Concentration:
+#### MS Candidate in Industrial Engineering with the Advanced Analytics Concentration
 
 University of Illinois at Urbana Champaign \\
 December 2022 (Expected)
@@ -13,6 +13,14 @@ May 2017
 ---
 
 ## Work Experience
+
+#### Simulation Engineer, Urbana Champaign, IL
+
+##### Healthcare Engineering Systems Center, University of Illinois at Urbana Champaign, Aug 2019 – Present
+
+• Leading multi-disciplinary teams to develop virtual reality projects for medical simulation and training. \\
+• End-to-end project management including ideation, proposal writing, and production to deliver software. \\
+• Managing $100,000+ in Jump Trading ARCHES funding for development.
 
 ---
 
