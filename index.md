@@ -1,12 +1,14 @@
 ## Education
 
-Master of Science Candidate in Industrial Engineering with the Advanced Analytics Concentration:
+### Master of Science Candidate in Industrial Engineering with the Advanced Analytics Concentration:
 
-- University of Illinois at Urbana Champaign
-- December 2022 (Expected)
-  Bachelor of Science in Bioengineering:
-- University of Illinois at Urbana Champaign
-- May 2017
+University of Illinois at Urbana Champaign
+December 2022 (Expected)
+
+### Bachelor of Science in Bioengineering:
+
+University of Illinois at Urbana Champaign
+May 2017
 
 ---
 
