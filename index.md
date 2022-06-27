@@ -38,11 +38,12 @@ Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>!
 - Python
 - Pytorch
 - OpenCV
+- Docker
 - AWS
     - Lambda
     - S3
     - DynamoDB
-- Docker
+
 
 
 ---
