@@ -26,7 +26,7 @@ May 2017
 ---
 
 # Portfolio
-
+<div>
 ## Data Science and Machine Learning Projects
 
 ### Data Collection Portal for Pose Estimation
@@ -44,7 +44,7 @@ Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>!
     - DynamoDB
 - Docker
 
-
+</div>
 ---
 
 ### Implementing Machine Learning Algorithms from Scratch
