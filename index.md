@@ -53,6 +53,10 @@ May 2017
 
 Joviality delivers psychotherapy to patients suffering from serious/terminal illnesses with the help of VR. It is broken up into modules with the intent to teach users about the importance of emotional and mental wellbeing. This is a highly inter disciplinary project between software engineers, artists and sociologists. I have led the development of the software as well as developing pipelines that easily allow our team to work effectively. One of the cool features of our software is a completely gazed based interaction system to ensure easy access to patients who might be tethered to a hospital bed. We are also working on developing realistic non playable characters to guide the user through the curriculum.
 
+#### Technologies:
+- Unity3D
+- Oculus Quest 2
+
 #### Demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,6 +66,10 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 ### Neonatal VR
 
 I lead the development of a virtual reality software to train common procedures performed on neonates. One of those porceudres is umbilical venous catheterization (UVC). UVC is an emmergent procedure that involves inserting a catheter into a newborns umbilical stump through the umbilical vein. I take educational content from subject matter experts (neonatologists) and convert that to VR content. We develop realistic interactions to simulate the procedure to allow users to learn/review the steps of the procedure in an immersive manner. 
+
+#### Technologies:
+- Unity3D
+- Oculus Quest 2
 
 #### Demo:
 
@@ -75,7 +83,11 @@ The demonstration below is of the working prototype for this software. We hope t
 
 ECMO VR is a virtual reality software to teach users about the complicated procedure of extracorpreal membrane oxygenation (ECMO). ECMO is a procedure performed when a patient has a failing lung and/or heart. Patients are hooked up to an external circuit to pump and oxygenate the blood. The software is designed to teach about the equipment involved in the proceudre, how to correctly connect the components depending on the patient's symptoms, and how to troubleshoot the circuit when faced with common issues. 
 
-#### Machine Explorer:
+#### Technologies:
+- Unity3D
+- Oculus Quest 2
+
+#### Machine Explorer Demo:
 
 The demonstration below is showing a prototype of the machine exploration module. Users can grab various components off the cart and learn more about them. The components are realistically modeled and correctly placed on the ECMO cart to ensure a realistic delivery of education. 
 
@@ -85,6 +97,10 @@ The demonstration below is showing a prototype of the machine exploration module
 
 ### Cardio VR
 
+#### Technologies:
+- Unity3D
+- Oculus Quest 2
+
 <!-- ##### Machine Explorer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -92,6 +108,10 @@ The demonstration below is showing a prototype of the machine exploration module
 ---
 
 ### Spay VR
+
+#### Technologies:
+- Unity3D
+- Oculus Quest 2
 
 #### Tool Explorer and Surgical Incision:
 
