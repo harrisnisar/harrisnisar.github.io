@@ -1,4 +1,4 @@
-# Educationn
+# Education
 
 ### MS Candidate in Industrial Engineering \\
 #### (Advanced Analytics Concentration)
