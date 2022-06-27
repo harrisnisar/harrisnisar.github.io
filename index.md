@@ -1,6 +1,7 @@
 # Educationn
 
-### MS Candidate in Industrial Engineering (Advanced Analytics Concentration)
+### MS Candidate in Industrial Engineering \\
+#### (Advanced Analytics Concentration)
 
 University of Illinois at Urbana Champaign \\
 December 2022 (Expected)
@@ -15,6 +16,7 @@ May 2017
 # Work Experience
 
 ### Simulation Engineer, Healthcare Engineering Systems Center, University of Illinois at Urbana Champaign \\
+
 #### Aug 2019 – Present
 
 - Leading multi-disciplinary teams to develop virtual reality projects for medical simulation and training.
