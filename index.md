@@ -1,6 +1,6 @@
 # Educationn
 
-### MS Candidate in Industrial Engineering with the Advanced Analytics Concentration
+## MS Candidate in Industrial Engineering (Advanced Analytics Concentration)
 
 University of Illinois at Urbana Champaign \\
 December 2022 (Expected)
