@@ -29,6 +29,14 @@ May 2017
 
 ## Data Science and Machine Learning Projects
 
+### Data Collection Portal for Pose Estimation
+
+I am leading the development of a web portal where subjects can take images and videos and submit them for further analysis. We are developing this tool to be modular and scalable so researchers with various requirements can utilize it to collect data. As a an example, I have developed a portal that allows users to take a picture of their face. Upon submission, a deep learning model determines where key landmarks of the face are. Those landmarks are then drawn on the image and sent back to the user.
+
+Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>!
+
+---
+
 ### Implementing Machine Learning Algorithms from Scratch
 
 ---
@@ -41,13 +49,7 @@ May 2017
 
 ---
 
-### Data Collection Portal for Pose Estimation
-
----
-
 ## Virtual Reality (VR) Projects
-
-<!-- [Project 1 Title](/sample_page) -->
 
 ### Joviality
 
