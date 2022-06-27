@@ -61,11 +61,33 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ### Neonatal VR
 
-I lead the development of a virtual reality software to train common procedures performed on neonates. One of those porceudres is umbilical venous catheterization (UVC). UVC is an emmergent procedure that involves inserting a catheter into a newborns umbilical stump through the umbilical vein. I take educational content from subject matter experts (neonatologists) and convert that to VR content. We develop realistic interactions to simulate the procedure to allow users to learn/review the steps of the procedure in an immersive manner. The demonstration below is of the working prototype for this software. We hope to continue developing this prototype and to run a study to understand the efficacy of the software in teaching this content. 
+I lead the development of a virtual reality software to train common procedures performed on neonates. One of those porceudres is umbilical venous catheterization (UVC). UVC is an emmergent procedure that involves inserting a catheter into a newborns umbilical stump through the umbilical vein. I take educational content from subject matter experts (neonatologists) and convert that to VR content. We develop realistic interactions to simulate the procedure to allow users to learn/review the steps of the procedure in an immersive manner. 
 
 #### Demo:
 
+The demonstration below is of the working prototype for this software. We hope to continue developing this prototype and to run a study to understand the efficacy of the software in teaching this content. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yZYXFBrX0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### ECMO VR
+
+ECMO VR is a virtual reality software to teach users about the complicated procedure of extracorpreal membrane oxygenation (ECMO). ECMO is a procedure performed when a patient has a failing lung and/or heart. Patients are hooked up to an external circuit to pump and oxygenate the blood. The software is designed to teach about the equipment involved in the proceudre, how to correctly connect the components depending on the patient's symptoms, and how to troubleshoot the circuit when faced with common issues. 
+
+#### Machine Explorer:
+
+The demonstration below is showing a prototype of the machine exploration module. Users can grab various components off the cart and learn more about them. The components are realistically modeled and correctly placed on the ECMO cart to ensure a realistic delivery of education. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Cardio VR
+
+<!-- ##### Machine Explorer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 
@@ -81,22 +103,6 @@ I lead the development of a virtual reality software to train common procedures 
 
 ---
 
-### ECMO VR
-
-#### Machine Explorer:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Intubation VR
-
-<!-- ##### Machine Explorer:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
----
-
 ### Brain VR
 
 <!-- ##### Machine Explorer:
@@ -105,7 +111,7 @@ I lead the development of a virtual reality software to train common procedures 
 
 ---
 
-### Cardio VR
+### Road to Birth
 
 <!-- ##### Machine Explorer:
 
@@ -113,7 +119,7 @@ I lead the development of a virtual reality software to train common procedures 
 
 ---
 
-### Road to Birth
+### Intubation VR
 
 <!-- ##### Machine Explorer:
 
