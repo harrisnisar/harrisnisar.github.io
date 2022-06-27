@@ -1,22 +1,20 @@
 # Educationn
 
-## MS Candidate in Industrial Engineering (Advanced Analytics Concentration)
+### MS Candidate in Industrial Engineering (Advanced Analytics Concentration)
 
 University of Illinois at Urbana Champaign \\
 December 2022 (Expected)
 
-#### BS in Bioengineering:
+### BS in Bioengineering:
 
 University of Illinois at Urbana Champaign \\
 May 2017
 
 ---
 
-## Work Experience
+# Work Experience
 
-#### Simulation Engineer, Urbana Champaign, IL
-
-##### Healthcare Engineering Systems Center, University of Illinois at Urbana Champaign, Aug 2019 – Present
+### Simulation Engineer, Healthcare Engineering Systems Center, University of Illinois at Urbana Champaign, Aug 2019 – Present
 
 - Leading multi-disciplinary teams to develop virtual reality projects for medical simulation and training.
 - End-to-end project management including ideation, proposal writing, and production to deliver software.
@@ -24,69 +22,69 @@ May 2017
 
 ---
 
-## Portfolio
+# Portfolio
 
-### Data Science and Machine Learning Projects
+## Data Science and Machine Learning Projects
 
-#### Implementing Machine Learning Algorithms from Scratch
-
----
-
-#### Caption Genrator using Deep Learning
+### Implementing Machine Learning Algorithms from Scratch
 
 ---
 
-#### Urban Sound Tagging using Deep Learning
+### Caption Genrator using Deep Learning
 
 ---
 
-#### Data Collection Portal for Pose Estimation
+### Urban Sound Tagging using Deep Learning
 
 ---
 
-### Virtual Reality (VR) Projects
+### Data Collection Portal for Pose Estimation
+
+---
+
+## Virtual Reality (VR) Projects
 
 <!-- [Project 1 Title](/sample_page) -->
 
-#### Joviality
+### Joviality
 
 Joviality delivers psychotherapy to patients suffering from serious/terminal illnesses with the help of VR. It is broken up into modules with the intent to teach users about the importance of emotional and mental wellbeing. This is a highly inter disciplinary project between software engineers, artists and sociologists. I have led the development of the software as well as developing pipelines that easily allow our team to work effectively. One of the cool features of our software is a completely gazed based interaction system to ensure easy access to patients who might be tethered to a hospital bed. We are also working on developing realistic non playable characters to guide the user through the curriculum.
 
-##### Demo:
+#### Demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### Neonatal VR
+### Neonatal VR
 
-##### Demo:
+#### Demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yZYXFBrX0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### Spay VR
+### Spay VR
 
-##### Tool Explorer and Surgical Incision:
+#### Tool Explorer and Surgical Incision:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zMFY5ra44Ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Anatomy Viewer:
+#### Anatomy Viewer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rElz6Wt7tzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### ECMO VR
+### ECMO VR
 
-##### Machine Explorer:
+#### Machine Explorer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### Intubation VR
+### Intubation VR
 
 <!-- ##### Machine Explorer:
 
@@ -94,7 +92,7 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ---
 
-#### Brain VR
+### Brain VR
 
 <!-- ##### Machine Explorer:
 
@@ -102,7 +100,7 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ---
 
-#### Cardio VR
+### Cardio VR
 
 <!-- ##### Machine Explorer:
 
@@ -110,7 +108,7 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ---
 
-#### Road to Birth
+### Road to Birth
 
 <!-- ##### Machine Explorer:
 
@@ -118,9 +116,9 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ---
 
-### Hardware and IoT Projects
+## Hardware and IoT Projects
 
-#### UVBot
+### UVBot
 
 <!-- ##### Machine Explorer:
 
@@ -128,7 +126,7 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 ---
 
-#### Health Tracking Kiosk
+### Health Tracking Kiosk
 
 <!-- ##### Machine Explorer:
 
