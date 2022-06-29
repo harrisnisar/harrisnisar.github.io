@@ -87,10 +87,11 @@ See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Pro
 ## Virtual Reality (VR) Projects
 
 ### Joviality
+Joviality delivers psychotherapy to patients suffering from serious/terminal illnesses with the help of VR. It is broken up into modules with the intent to teach users about the importance of emotional and mental wellbeing. This is a highly inter disciplinary project between software engineers, artists and sociologists. I have led the development of the software as well as developing pipelines that easily allow our team to work effectively. One of the cool features of our software is a completely gazed based interaction system to ensure easy access to patients who might be tethered to a hospital bed. We are also working on developing realistic non playable characters to guide the user through the curriculum.\\
+
+#### Some Gifs of the First Prototypes
 <img src="./gifs/joviality-2.gif" alt="Logo" />
 <img src="./gifs/joviality-3.gif" alt="Logo" />
-<img src="./gifs/joviality-4.gif" alt="Logo" />
-Joviality delivers psychotherapy to patients suffering from serious/terminal illnesses with the help of VR. It is broken up into modules with the intent to teach users about the importance of emotional and mental wellbeing. This is a highly inter disciplinary project between software engineers, artists and sociologists. I have led the development of the software as well as developing pipelines that easily allow our team to work effectively. One of the cool features of our software is a completely gazed based interaction system to ensure easy access to patients who might be tethered to a hospital bed. We are also working on developing realistic non playable characters to guide the user through the curriculum.
 
 #### Technologies:
 - Unity3D
