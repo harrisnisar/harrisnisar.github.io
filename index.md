@@ -63,7 +63,7 @@ For my Statistical Learning class, we focused on deeply understanding common mac
 The actual code can be found on my github <a href="https://github.com/harrisnisar/STAT542">here</a>.
 
 ---
-<div markdown=1>
+<div markdown=1 id="target">
 ### Caption Generator using Deep Learning
 
 For my Deep Learning class, our final project involved building a caption generation system. We trained a encoder decoder deep learning model. The encoder was a CNN that took in images. After passing through the encoder, the output was resized and used as the first input to the decoder which was an LSTM to generate captions. Our training architecture is shown in the image below:
