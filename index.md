@@ -50,6 +50,11 @@ Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>! (
 
 ### Implementing Machine Learning Algorithms from Scratch
 
+For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, LASSO, ridge regression, SVMs, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, PCA, and forward/backwards feature selection. My Jupyter notebooks for all the classes are below:
+- <a href="./html/HW2">HW2</a>
+
+
+The actual code can be found on my github here.
 ---
 
 ### Caption Genrator using Deep Learning
