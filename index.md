@@ -87,7 +87,6 @@ See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Pro
 ## Virtual Reality (VR) Projects
 
 ### Joviality
-<img src="./gifs/joviality-1.gif" alt="Logo" />
 <img src="./gifs/joviality-2.gif" alt="Logo" />
 <img src="./gifs/joviality-3.gif" alt="Logo" />
 <img src="./gifs/joviality-4.gif" alt="Logo" />
@@ -99,7 +98,7 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 #### Demo:
 
-<iframe width="360" height="200" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="object-fit:cover" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
