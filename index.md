@@ -98,8 +98,9 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 - Oculus Quest 2
 
 #### Demo:
+This demonstration is an end to end demo of the first module of the software:
 
-<iframe style="object-fit:cover" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;heigh:100vh" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
