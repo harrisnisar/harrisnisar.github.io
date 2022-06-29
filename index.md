@@ -50,9 +50,15 @@ Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>! (
 
 ### Implementing Machine Learning Algorithms from Scratch
 
-For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, LASSO, ridge regression, SVMs, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, PCA, and forward/backwards feature selection. My Jupyter notebooks for all the classes are below:
-- <a href="./html/HW2">HW2</a>
-
+For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, Lasso and ridge regression, SVMs, Linear/Quadratic Discriminant Analysis, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, PCA, forward/backwards feature selection, AIC/BIC scoring for model evaluation, standardization, and confusion matricies. My Jupyter notebooks for all the classes are below:
+- <a href="./html/HW2">KNN</a>
+- <a href="./html/HW3">Simulations, Linear Regression, AIC, BIC, Model Selection</a>
+- <a href="./html/HW4">Optimization, Cooridnate Descent, Feature Standardization</a>
+- <a href="./html/HW5">Lasso, Pathwise Coordinate Descent</a>
+- <a href="./html/HW6">Spline and Kernel Regression</a>
+<!-- - <a href="./html/HW7">Local Linear Regression, Linear/Quadratic Discriminant Analysis</a> -->
+- <a href="./html/HW8">SVM</a>
+- <a href="./html/HW9">Kernel Ridge Regression</a>
 
 The actual code can be found on my github here.
 ---
