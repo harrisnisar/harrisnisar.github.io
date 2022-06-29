@@ -98,6 +98,8 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<img src="./gifs/joviality-1.gif" alt="Logo" />
+
 ---
 
 ### Neonatal VR
