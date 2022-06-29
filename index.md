@@ -35,6 +35,7 @@ I am leading the development of a web portal where subjects can take images and 
 
 Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>! (Not mobile friendly, yet. Please check on a computer.)
 #### Technologies:
+- React
 - Python
 - Pytorch
 - OpenCV
