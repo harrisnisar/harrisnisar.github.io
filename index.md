@@ -66,9 +66,11 @@ The actual code can be found on my github <a href="https://github.com/harrisnisa
 
 ### Caption Generator using Deep Learning
 
-For my Deep Learning class, our final project involved building a caption generation system. We trained a encoder decoder deep learning model. The encoder was a CNN that took in images. After passing through the encoder, the output was resized and used as the first input to the decoder which was an LSTM to generate captions. 
+For my Deep Learning class, our final project involved building a caption generation system. We trained a encoder decoder deep learning model. The encoder was a CNN that took in images. After passing through the encoder, the output was resized and used as the first input to the decoder which was an LSTM to generate captions. Our training architecture is shown in the image below:
 
-Read our final report <a href="./pdf/CS547_Project_Report.pdf">here</a>.
+<img src="./images/train_arch_caption_gen.png" alt="Logo" />
+
+Read our final report <a href="./pdf/CS547_Project_Report.pdf">here</a>. \\
 See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Project%20-%20CaptionGeneration">here</a>.
 
 
