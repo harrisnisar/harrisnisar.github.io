@@ -60,7 +60,7 @@ For my Statistical Learning class, we focused on deeply understanding common mac
 - <a href="./html/HW8">SVM</a>
 - <a href="./html/HW9">Kernel Ridge Regression</a>
 
-The actual code can be found on my github here.
+The actual code can be found on my github <a href="https://github.com/harrisnisar/STAT542">here</a>.
 ---
 
 ### Caption Genrator using Deep Learning
