@@ -25,7 +25,7 @@ May 2017
 
 ---
 
-# Portfolio
+# Projects
 
 ## Data Science and Machine Learning Projects
 
@@ -45,24 +45,6 @@ Check out the demo <a href="https://www.faciallandmarkdetector.com/">here</a>! (
     - S3
     - DynamoDB
 
-
-
----
-
-### Implementing Machine Learning Algorithms from Scratch
-
-For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, Lasso and ridge regression, SVMs, Linear/Quadratic Discriminant Analysis, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, PCA, forward/backwards feature selection, AIC/BIC scoring for model evaluation, standardization, and confusion matricies. My Jupyter notebooks for all the classes are below:
-- <a href="./html/HW2">KNN</a>
-- <a href="./html/HW3">Simulations, Linear Regression, AIC, BIC, Model Selection</a>
-- <a href="./html/HW4">Optimization, Cooridnate Descent, Feature Standardization</a>
-- <a href="./html/HW5">Lasso, Pathwise Coordinate Descent</a>
-- <a href="./html/HW6">Spline and Kernel Regression</a>
-<!-- - <a href="./html/HW7">Local Linear Regression, Linear/Quadratic Discriminant Analysis</a> -->
-- <a href="./html/HW8">SVM</a>
-- <a href="./html/HW9">Kernel Ridge Regression</a>
-
-The actual code can be found on my github <a href="https://github.com/harrisnisar/STAT542">here</a>.
-
 ---
 <div markdown=1 id="target">
 ### Caption Generator using Deep Learning
@@ -79,10 +61,38 @@ See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Pro
 
 ### Urban Sound Tagging using Deep Learning
 
+For my Machine Learning and Signal Processing course, our final project explored training machine/deep learning algorithms to understand and interpret sounds. We used a dataset of audio recordings that have been obtained by placing sensors throughout New York City. Along with the sensor data, each sensor also records the timestamp and location of the recording. This dataset contains coarse and fine labels. Coarse labels tell us if any of the 8 coarse classes of sound are present. Fine labels further define these coarse labels by splitting them into more specific groups. We implemented a baseline system used in classifying this dataset that uses a pretrained network to extract features which were uses to trained a 1-layer neural network. Then we analyzed the effect of modifying 2 aspects of the baseline: (1) Transfer Learning and (2) Data Augmentation. In addition, we explore the use of simpler models like support vector machines (SVM). 
+
+Read our final report <a href="./pdf/CS598PS_project.pdf">here</a>. \\
+See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Project%20-%20CaptionGeneration">here</a>.
+---
+
+### Implementing Machine Learning Algorithms from Scratch
+
+For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, Lasso and ridge regression, SVMs, Linear/Quadratic Discriminant Analysis, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, hyperparameter tuning, PCA, forward/backwards feature selection, AIC/BIC scoring for model evaluation, standardization, and confusion matricies. My Jupyter notebooks for all the classes are below:
+- <a href="./html/HW2">KNN</a>
+- <a href="./html/HW3">Simulations, Linear Regression, AIC, BIC, Model Selection</a>
+- <a href="./html/HW4">Optimization, Cooridnate Descent, Feature Standardization</a>
+- <a href="./html/HW5">Lasso, Pathwise Coordinate Descent</a>
+- <a href="./html/HW6">Spline and Kernel Regression</a>
+- <a href="./html/HW7">Local Linear Regression, Linear/Quadratic Discriminant Analysis</a>
+- <a href="./html/HW8">SVM</a>
+- <a href="./html/HW9">Kernel Ridge Regression</a>
+
+The actual code can be found on my GitHub <a href="https://github.com/harrisnisar/STAT542">here</a>.
+
 ---
 
 ### Fashion MNIST Exploration and Model Building
 
+For my Statistical Learning class, our final project asked us to solve image classification tasks (without deep learning, so no CNNs). For this project we are given the Fashion MNIST data to predict the class label in the testing data [3]. The dataset we are working with contains 70,000 28x28 images of 10 different categories of clothing where 60,000 are placed in the training dataset and the remaining 10,000 are used for the testing data. After exploring the data, we realized that since there are a lot of features, we should compress the data using PCA to find the most relevant combination of features. After this, we explored classification performance using several classical machine learning algorithms such as:
+- KNN
+- Light GBM
+- Logistic Regression
+We tuned the hyperparameters of these methods using k-fold cross validation. We also explored ensamble methods by stacking some of the classifiers we trained to see if we can imporve performance. 
+
+Read our final report <a href="./pdf/Stat_542_Final_Project.pdf">here</a>. \\
+See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Project%20-%20CaptionGeneration">here</a>.
 ---
 
 ## Virtual Reality (VR) Projects
@@ -102,8 +112,6 @@ Joviality delivers psychotherapy to patients suffering from serious/terminal ill
 This demonstration is an end to end demo of the first module of the software:
 
 <iframe style="width:100%;height:300px" src="https://www.youtube.com/embed/T3pZm9tDSLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ---
 
@@ -208,3 +216,7 @@ The demonstration below is showing a prototype of the machine exploration module
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
+
+# Course Work
+
+# Publications
