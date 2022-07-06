@@ -93,6 +93,7 @@ We tuned the hyperparameters of these methods using k-fold cross validation. We 
 
 Read our final report <a href="./pdf/Stat_542_Final_Project.pdf">here</a>. \\
 See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Project%20-%20CaptionGeneration">here</a>.
+
 ---
 
 ## Virtual Reality (VR) Projects
