@@ -186,8 +186,8 @@ The demo below showcases the anatomy viewer I helped develop. The dog can be vie
 
 ### Brain VR
 
-<img src="./gifs/brain-vr-1.gif" alt="Logo" />
-<img src="./gifs/brain-vr-2.gif" alt="Logo" />
+<img src="./gifs/brain_vr_1.gif" alt="Logo" />
+<img src="./gifs/brain_vr_2.gif" alt="Logo" />
 
 The goal of this project is to generate an app accessible on VR, tablet, and computer that allows students to visually dissect a human brain generated from post-mortem brain slices. The app will have visually linked MRI, post-mortem, and 3D reconstruction models so that the student can manipulate and view the effects in either image. In addition, the app will have educational content that will be dependent on the structure(s) selected.
 
@@ -227,7 +227,7 @@ The goal of this project was to create a virtual reality simulation to teach med
 
 UVBot is a low-cost robot that can be programmed to clean spaces such as schools, offices, and public transportation to inactivate COVID-19 with UV light. It promises 99% virus inactivation and can be controlled over Wi-Fi or Bluetooth to prevent UV exposure. The UVBot can be made from a Roomba robot, UV lamp, and 3D-printed parts. I helped lead the mechanical design and circuit design of the robot. We used FDM 3D printing and laser cutting to manufacture custom parts that were attached using off the shelf material. We used an off the shelf power supply and a ballast to safely power the UV lamps. A Raspberry Pi was used as a controller. 
 
-Here my presentation about how we designed the robot <a href="https://mediaspace.illinois.edu/media/t/1_u3begcyr">here</a>. \\
+Hear my presentation about how we designed the robot <a href="https://mediaspace.illinois.edu/media/t/1_u3begcyr">here</a>. 
 
 #### Technologies/Skills:
 - 3D modeling using Solidworks
@@ -250,7 +250,7 @@ The Self-Tracking Kiosk can be placed at entrances of buildings and office space
 
 The demo below shows the end to end process of connecting with the kiosk, reading the temperature to the raspberry pi, and sending the information to the mobile application.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yzRbU7M6pbo&list=PLTL1FbWzNTO9PKQkuJ6TPDuiirtyq1fcH&index=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:300px" src="https://www.youtube.com/embed/yzRbU7M6pbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
