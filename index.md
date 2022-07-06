@@ -69,7 +69,7 @@ See our code <a href="https://github.com/harrisnisar/IE534/tree/main/Final%20Pro
 
 ### Implementing Machine Learning Algorithms from Scratch
 
-For my Statistical Learning class, we focused on deeply understanding common machine learning algorithms. To do this, we had to code up various algorithms from scratch in Python. We coded KNN, linear regression, Lasso and ridge regression, SVMs, Linear/Quadratic Discriminant Analysis, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, hyperparameter tuning, PCA, forward/backwards feature selection, AIC/BIC scoring for model evaluation, standardization, and confusion matricies. My Jupyter notebooks for all the classes are below:
+For my Statistical Learning class, we implemented various algorithms from scratch in Python including KNN, linear regression, Lasso and ridge regression, SVMs, Linear/Quadratic Discriminant Analysis, kernel regression, and many more. We also implemented many useful machine learning techniques like k-fold cross validation, hyperparameter tuning, PCA, forward/backwards feature selection, AIC/BIC scoring for model evaluation, standardization, and confusion matricies. My Jupyter notebooks for all the classes are below:
 - <a href="./html/HW2">KNN</a>
 - <a href="./html/HW3">Simulations, Linear Regression, AIC, BIC, Model Selection</a>
 - <a href="./html/HW4">Optimization, Cooridnate Descent, Feature Standardization</a>
@@ -145,7 +145,7 @@ The demonstration below is showing a prototype of the machine exploration module
 
 <iframe style="width:100%;height:300px" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+<!-- ---
 
 ### Cardio VR
 
@@ -155,11 +155,16 @@ The demonstration below is showing a prototype of the machine exploration module
 
 <!-- ##### Machine Explorer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> -->
 
 ---
 
 ### Spay VR
+
+
+<img src="./images/spay-vr-1.png" alt="Logo" />
+
+Spaying is a procedure performed on female dogs to remove their ovaries. It is the most common procedure performed by vets, therefore having good training is crucial. Spay VR is a project I work on in collaboration with the UIUC School of Vetmed. We are working on developing interactive, 3D content that can be delivered with a virtual reality headset or on the web to teach about the spay procedure. I help develop the software. So far we have developed an anatomical viewer for a dog and a tools module to explore the functions of various surgical tools. 
 
 #### Technologies:
 - Unity3D
@@ -167,9 +172,13 @@ The demonstration below is showing a prototype of the machine exploration module
 
 #### Tool Explorer and Surgical Incision:
 
+The demo below showcases the various tools imported into VR. I have also included correct handholds so users can learn how the tools are supposed to be held. The scalpel can also be ussed to create an incision along the dog's abdomen.
+
 <iframe style="width:100%;height:300px" src="https://www.youtube.com/embed/zMFY5ra44Ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Anatomy Viewer:
+
+The demo below showcases the anatomy viewer I helped develop. The dog can be viewed at from any angle. Different crucial pieces of anatomy can be highlighted. Educators can save critical views to use as a teaching tool. 
 
 <iframe style="width:100%;height:300px" src="https://www.youtube.com/embed/rElz6Wt7tzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -177,25 +186,36 @@ The demonstration below is showing a prototype of the machine exploration module
 
 ### Brain VR
 
-<!-- ##### Machine Explorer:
+<img src="./gifs/brain-vr-1.gif" alt="Logo" />
+<img src="./gifs/brain-vr-2.gif" alt="Logo" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+The goal of this project is to generate an app accessible on VR, tablet, and computer that allows students to visually dissect a human brain generated from post-mortem brain slices. The app will have visually linked MRI, post-mortem, and 3D reconstruction models so that the student can manipulate and view the effects in either image. In addition, the app will have educational content that will be dependent on the structure(s) selected.
+
+#### Technologies:
+- Unity3D
 
 ---
 
 ### Road to Birth
 
-<!-- ##### Machine Explorer:
+<img src="./gifs/rtb-1.gif" alt="Logo" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+Road to Birth is an app for teaching anatomic and physiologic changes during pregnancy. Traditional approaches to teaching pre-clinical obstetrics understate its dynamic nature. To address this issue, we developed an app, “Road to Birth” (RtB), which was available in two formats: Virtual Reality (VR) and tablet. This app was made in collaboration with the University of Newcastle in New Zealand. I received the codebase and Unity project from them and added many features to allow for the deployment of this app. Namely, I added support for storing data and results in a cloud database, added quiz functionalities and added methods of tracking which parts of the app a student spent the most time on. In addition, I also tracked if a student preferred to use the VR version or tablet version of the app. The most challenging part of this process from a software engineering standpoint was implementing an efficient and easy way to deploy the app on students devices and maintain the VR versions in our VR lab. In particular, the iOS version was challenging because we could not just put the app on the app store because we wanted to keep the technology internal. To resolve this, we leveraged the University's Enterprise iOS Developer account and generated a version of the app that students could download without going through the app store. We hosted the file on our own server. Not only did I learn a lot about software development, but it was cool to actually work through deploying a piece of software.
+
+#### Technologies:
+- Unity3D
 
 ---
 
 ### Intubation VR
 
-<!-- ##### Machine Explorer:
+<img src="./gifs/intubation-1.gif" alt="Logo" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+The goal of this project was to create a virtual reality simulation to teach medical professionals about the intubation procedure. Intubations are performed when someone has a compromised airway to open it up and allow the patient to breathe again. It is a highly stressful procedure. We have built an end to end tool to teach this procedure and allow learners to practice the procedure in a low risk setting. I was put on this project after a prototype had been developed and worked to rewrite the entire codebase in a more modular and scalable manner, relying largely on Unity’s event system.
+
+#### Technologies:
+- Unity3D
+- VRTK
 
 ---
 
@@ -203,20 +223,45 @@ The demonstration below is showing a prototype of the machine exploration module
 
 ### UVBot
 
-<!-- ##### Machine Explorer:
+<img src="./images/uvbot.png" alt="Logo" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+UVBot is a low-cost robot that can be programmed to clean spaces such as schools, offices, and public transportation to inactivate COVID-19 with UV light. It promises 99% virus inactivation and can be controlled over Wi-Fi or Bluetooth to prevent UV exposure. The UVBot can be made from a Roomba robot, UV lamp, and 3D-printed parts. I helped lead the mechanical design and circuit design of the robot. We used FDM 3D printing and laser cutting to manufacture custom parts that were attached using off the shelf material. We used an off the shelf power supply and a ballast to safely power the UV lamps. A Raspberry Pi was used as a controller. 
+
+Here my presentation about how we designed the robot <a href="https://mediaspace.illinois.edu/media/t/1_u3begcyr">here</a>. \\
+
+#### Technologies/Skills:
+- 3D modeling using Solidworks
+- 3D fabrication using FDM printing and laser cutting
+
+​---
+
+### Self-Tracking Kiosk
+
+The Self-Tracking Kiosk can be placed at entrances of buildings and office spaces to obtain the vitals of employees in a non-contact manner. The system is built around the UTi165K Forward Looking Infrared (FLIR) thermal camera. Since the UTi165K is calibrated is calibrated to work in the 30˚C~45˚C / 86˚F~113˚ F range with 0.5˚C / 1˚ F accuracy, it is excellent for human temperature & fever detection. Additionally, the UTi165K can stream data in real-time to a computer over USB. In order to interact with the kiosk, a mobile application has been developed to connect any smartphone to a kiosk via Bluetooth Low Energy (BLE) by scanning a QR code. Users can sign up for this application using their email or Gmail account. Gmail integration allows easy sign up for students at the University of Illinois at Urbana-Champaign because it follows the 2 factor authentication pattern students are familiar with. After this connection has been established, temperature readings can be pulled from the kiosk into the mobile application, where it is processed. A server has also been developed to store temperature information to monitor health over time. This server is designed to store information per user or per kiosk. As the system has been developed to be sensor agnostic, we can easily swap or add sensors based on the requirements of the user.
+
+#### Technologies:
+- Flutter for mobile app development
+- Node for backend development
+- MongoDB
+- Firebase
+- Python for reading sensor information and BLE server development
+
+##### Demo:
+
+The demo below shows the end to end process of connecting with the kiosk, reading the temperature to the raspberry pi, and sending the information to the mobile application.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yzRbU7M6pbo&list=PLTL1FbWzNTO9PKQkuJ6TPDuiirtyq1fcH&index=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-
-### Health Tracking Kiosk
-
-<!-- ##### Machine Explorer:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggQRWBkMQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
----
-
-# Course Work
 
 # Publications
+- Naveen Sankaran, Harris J Nisar “Efficacy Study on Interactive Mixed Reality (IMR) Software with Sepsis Prevention Medical Education” IEEE Virtual Reality, Osaka, Japan, March 25-27, 2019
+- Lydia Lee, Harris J Nisar “Face and Content Validation of Food Safety Training in Virtual Reality (VR)” IEEE SeGAH (UNDER FINAL REVIEW)
+
+# Course Work
+- Deep Learning 
+- Machine Learning
+- Signal Processing
+- Machine Learning for Signal Processing
+- Algorithms for Data Analysis
+- Advanced Data Analysis
